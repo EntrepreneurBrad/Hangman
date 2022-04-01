@@ -108,7 +108,6 @@ def wordBlanks():
 
     guessedLettersFrequency = wordListedInLetters.count(guess)
     frequencyOfLetterInWord = 0 #will differ depending on letter. Starts at zero and is then searched for
-    print("letter occurs: " + str(guessedLettersFrequency))
     trueLetterPosition = 0 #the offset that occurs when a letter is removed so that the next instance of it can be identified. It resets each new type of letter
  
     wordListedInLetters = list(word) #resets word format for a new letter type
