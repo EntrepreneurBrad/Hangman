@@ -18,7 +18,7 @@ A randomly selected word (from over 4700) is selected and the user is able to gu
 5. If so the underlines of the word are filled in with the letters
 5. Steps 3, 4 & 5 are repeat until all letters are entered or hangman is reached
 
-![Interface]([https://i.ibb.co/vmjFGt9/Screen-Shot-2022-10-01-at-1-34-30-pm.png])
+![Interface](https://i.ibb.co/vmjFGt9/Screen-Shot-2022-10-01-at-1-34-30-pm.png)
 
 <br><br>
 
