@@ -1,6 +1,6 @@
 # **Hangman**
 
-## **Description:**
+## **Description**
 This project allows the user to play Hangman in their terminal.
 
 A randomly selected word (from over 4700) is selected and the user is able to guess with intelligent animations being performed.
@@ -10,7 +10,7 @@ A randomly selected word (from over 4700) is selected and the user is able to gu
 - Larger Selection of Words and Word Groups (i.e. Nouns)
 <br><br>
 
-## **How It Works:**
+## **How It Works**
 1. *python3 hangman.py*
 2. A word and other relevant setup variables are generated
 3. The terminal invites the user to enter a letter
@@ -22,8 +22,8 @@ A randomly selected word (from over 4700) is selected and the user is able to gu
 
 <br><br>
 
-## **Config:**
-**Required to install:**
+## **Config**
+**Required to install**
 - Art
 - SYS
 - Copy
@@ -32,7 +32,7 @@ A randomly selected word (from over 4700) is selected and the user is able to gu
 <br><br>
 
 
-## **Credits:**
+## **Credits**
 - Harvard University
     - Introduction to Computer Science ([CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)).
     - Introduction to Computer Science with Python ([CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)).
@@ -41,7 +41,7 @@ A randomly selected word (from over 4700) is selected and the user is able to gu
 - *[w3schools](https://www.w3schools.com)* documentation
 <br><br>
 
-## **License:**
+## **License**
 *MIT License*
 
 *Copyright (c) [2022] [EntrepreneurBrad]*
